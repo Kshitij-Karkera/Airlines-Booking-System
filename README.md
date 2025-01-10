@@ -28,6 +28,6 @@ Airlines-Booking-System is a C++ console application simulating an airline booki
   - **Company Information:** Learn about AKS Airlines, its history, and services.
   - **Customer Support:** Access contact information for support and inquiries.
 
-## Screenshots 
+## Screenshot
 
 ![Picture 1](./screenshots/Airlines-Booking-System.png)
