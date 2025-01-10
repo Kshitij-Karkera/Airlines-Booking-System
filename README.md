@@ -30,4 +30,4 @@ Flight-Booking-System is a C++ console application simulating an airline booking
 
 ## Screenshot
 
-![Picture 1](./screenshots/Flight-Booking-System.png)
+![Picture 1](./screenshots/Airlines-Booking-System.png)
