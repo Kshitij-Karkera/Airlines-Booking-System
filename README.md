@@ -1,5 +1,5 @@
-# Airlines-Booking-System
-Airlines-Booking-System is a C++ console application simulating an airline booking platform. Users can sign up, sign in, book flights, check in, and manage accounts via a text-based interface. Features include user authentication, flight selection, PNR generation, and account management.
+# Flight-Booking-System
+Flight-Booking-System is a C++ console application simulating an airline booking platform. Users can sign up, sign in, book flights, check in, and manage accounts via a text-based interface. Features include user authentication, flight selection, PNR generation, and account management.
 
 ## Features
 
@@ -25,9 +25,9 @@ Airlines-Booking-System is a C++ console application simulating an airline booki
   - **Visa Management:** Enter and manage your visa information for international travel.
 
 - **About & Contact**
-  - **Company Information:** Learn about AKS Airlines, its history, and services.
+  - **Company Information:** Learn about AKS Flight, its history, and services.
   - **Customer Support:** Access contact information for support and inquiries.
 
 ## Screenshot
 
-![Picture 1](./screenshots/Airlines-Booking-System.png)
+![Picture 1](./screenshots/Flight-Booking-System.png)
